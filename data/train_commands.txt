@@ -1,0 +1,71 @@
+LIGHT_ON	ışığı aç
+LIGHT_ON	ışığı yak
+LIGHT_OFF	ışığı söndür
+UNKNOWN	ışığı kapa
+LIGHT_UP	ışığı arttır
+LIGHT_DOWN	ışığı kıs
+LIGHT_DOWN	ışığı azalt
+LIGHT_UP	parlaklığı arttır
+LIGHT_DOWN	parlaklığı azalt
+LIGHT_UP	aydınlatmayı arttır
+LIGHT_DOWN	aydınlatmayı azalt
+LIGHT_ON	lambayı aç
+LIGHT_ON	lambayı yak
+LIGHT_OFF	lambayı söndür
+LIGHT_OFF	lambayı kapat
+COLOR	kırmızı
+COLOR	mavi
+COLOR	yeşil
+LIGHT_ON	prizi aç
+LIGHT_OFF	prizi kapat
+LIGHT_ON	klimayı aç
+CLIMATE	klimayı kapa
+LIGHT_ON	iklimlendirmeyi aç
+UNKNOWN	iklimlendirmeyi kapa
+LIGHT_ON	ısıtmayı aç
+CLIMATE	ısıtmayı kapa
+CLIMATE	ısıt
+CLIMATE	soğut
+LIGHT_UP	sıcaklığı arttır
+LIGHT_DOWN	sıcaklığı düşür
+CLIMATE	evi ısıt
+CLIMATE	evi soğut
+CLIMATE	odayı ısıt
+CLIMATE	odayı soğut
+LIGHT_ON	kombiyi aç
+CLIMATE	kombiyi kapa
+LIGHT_ON	oda kaç derece
+LIGHT_ON	içerisi kaç derece
+LIGHT_ON	hava kaç derece
+UNKNOWN	modu değiştir
+LIGHT_ON	fanı aç
+FAN	fanı kapa
+LIGHT_UP	fanı arttır
+LIGHT_DOWN	fanı düşür
+LIGHT_ON	tv aç
+TV	tv kapa
+LIGHT_ON	televizyonu aç
+TV	televizyonu kapa
+LIGHT_ON	multimedyayı aç
+MEDIA	multimedyayı kapa
+LIGHT_ON	müzik aç
+MEDIA	müzik kapa
+LIGHT_ON	panjuru aç
+CURTAIN	panjuru kapa
+LIGHT_ON	perdeyi aç
+CURTAIN	perdeyi kapa
+ALARM	alarmı kur
+YESNO	evet
+YESNO	hayır
+SCENE	parti zamanı
+SCENE	dinlenme zamanı
+SCENE	uyku zamanı
+SCENE	eve geldim
+SCENE	evden çıkıyorum
+SCENE	günaydın
+UNKNOWN	i̇yi geceler
+SCENE	film zamanı
+SCENE	çalışma zamanı
+SCENE	spor zamanı
+SCENE	antrenman zamanı
+SCENE	senaryo başlat
